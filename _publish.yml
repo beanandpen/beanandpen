@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 8e8802ec-b34b-4199-9fff-f6915833c726
+      url: https://nimble-cendol-509c63.netlify.app
