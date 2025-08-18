@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Bean & Pen"
+  favicon: logo.png
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme:
+      - journal
+    toc: true
+    css: styles.css
+comments:
+  giscus:
+    repo: quarto-dev/quarto-docs
+resources:
+  - CNAME
