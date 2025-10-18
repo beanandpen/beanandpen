@@ -4,12 +4,12 @@ listing:
   contents: posts
   sort: "date desc"
   type: table
-  categories: true
+  categories: false
   sort-ui: false
   filter-ui: false
   fields: [date, title]
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 comments: false
 ---
 
